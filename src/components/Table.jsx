@@ -37,7 +37,7 @@ const data = [
     { id: 34, name: "Нагетси", kg: 0.5, price: 149 },
     { id: 35, name: "Сирні палички", kg: 0.5, price: 135 },
     { id: 36, name: "Масло вершкове", kg: 1, price: 390 },
-    { id: 37, name: "Ковбасадом", kg: 1, price: 360 },
+    { id: 37, name: "Ковбаса(дом)", kg: 1, price: 360 },
 ];
 
 const Table = () => {
