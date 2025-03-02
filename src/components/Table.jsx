@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const data = [
     { id: 1, name: "Пельмені свинина + кур", kg: 0.5, price: 103.5 },
     { id: 2, name: "Пельмені свинина + кур", kg: 1, price: 205 },

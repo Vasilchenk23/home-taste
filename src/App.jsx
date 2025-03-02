@@ -1,6 +1,7 @@
 import './App.css';
 import Table from './components/Table';
 import Footer from './components/Footer';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     <h1 className="menu-title">Меню</h1>
     <Table/>
     <Footer/>
+    <Analytics/>
     </>
   );
 }
