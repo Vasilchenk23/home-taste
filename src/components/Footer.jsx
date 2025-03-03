@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="footer-column">
           <h3>АДРЕСА МАГАЗИНУ</h3>
           <ul>
-            <li>вул. 23 Iскринська, 31</li>
+            <li>вул. Iскринська, 31</li>
           </ul>
         </div>
         <div className="social-icons">
